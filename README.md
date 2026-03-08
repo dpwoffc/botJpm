@@ -11,17 +11,12 @@ Bot WhatsApp berbasis **Node.js** menggunakan library **Baileys** untuk menghubu
 - Struktur kode sederhana dan mudah dikembangkan
 
 ## 📂 Struktur Project
-.
+
 ├── index.js
-
 ├── dpwoffc.js
-
 ├── package.json
-
 ├── database
-
 │   ├── grupTarget.json
-
 │   └── grupUrl.json
 
 ## ⚙️ Install & Jalankan
