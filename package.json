@@ -1,0 +1,23 @@
+{
+  "name": "dpwoffc bot new protokol",
+  "version": "1.0.0",
+  "description": "WhatsApp bot new protokol by @dpwoffc",
+  "main": "dpwoffc.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node dpwoffc.js"
+  },
+  "author": "Dwi Putra Wibowo",
+  "license": "MIT",
+  "dependencies": {
+    "@vkazee/baileys": "^1.0.3",
+    "chalk": "^5.6.2",
+    "jimp": "^0.16.13",
+    "node-fetch": "^3.3.2",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
